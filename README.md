@@ -7,6 +7,7 @@ Es un repositorio de mis trabajos hecho en clase y tareas asignadas de mi clase 
 El objetivo principal es guardar todos los trabajos y tareas realizadas en clase o en casa. 
 
 ## Lenguajes utilizados
+- HTML
 - JavaScript
 
 ## Autores
